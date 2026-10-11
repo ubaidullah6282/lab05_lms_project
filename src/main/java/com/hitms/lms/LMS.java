@@ -7,6 +7,6 @@ public class LMS {
     }
 
     public static String findMemberById(int id){
-        return "Member " + id;
+        return "Member " + id; // Feature A implemented
     }
 }
